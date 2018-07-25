@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ClubProject</string>
+    <!--<string name="title_home">Home</string>-->
+    <!--<string name="title_dashboard">Dashboard</string>-->
+    <!--<string name="title_notifications">Notifications</string>-->
+
+    <string name="title_home">Home</string>
+    <string name="member_list">Member List</string>
+    <string name="events">Events</string>
+    <string name="profile">Profile</string>
+    <string name="gallery">Gallery</string>
+    <string name="contacts">Contacts</string>
+    <string name="logout">Logout</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_user">User</string>
+</resources>
